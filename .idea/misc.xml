@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1735" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/drawable/home_background.xml" value="0.1735" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1735" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/drawable/rounded_corner.xml" value="0.1" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_add_product.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_confirm.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_detail_product.xml" value="0.21195652173913043" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_list_item.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_list_item_confirm.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_list_item_index.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_listitem_nhap_xuat.xml" value="0.264" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_listitem_nhap_xuat_confirm.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_nhap_hang.xml" value="0.264" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_order.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_product.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_qlkh_index.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_statistic.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_tao_don_nhap.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_tao_don_xuat_hang.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_them_moi.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/activity_xuat_hang.xml" value="0.17980072463768115" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/confirmed_and_cancelled_order_item.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/detail_list_item.xml" value="0.264" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/fragment_cancelled_orders.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/fragment_confirmed_orders.xml" value="0.2359375" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/fragment_pending.xml" value="0.25" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/fragment_pending_orders.xml" value="0.2359375" />
+        <entry key="..\:/Code/DevAndroid/app/src/main/res/layout/item_product.xml" value="0.25" />
+        <entry key="..\:/android/DevAndroid/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/android/test26_04/app/src/main/res/layout/activity_login.xml" value="0.1287037037037037" />
+        <entry key="..\:/android/test26_04/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/android/test26_04/app/src/main/res/layout/activity_sign_up.xml" value="0.1287037037037037" />
+        <entry key="..\:/project Android/DevAndroid/app/src/main/res/layout/activity_Product.xml" value="0.16032608695652173" />
+        <entry key="..\:/project Android/DevAndroid/app/src/main/res/layout/activity_main.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

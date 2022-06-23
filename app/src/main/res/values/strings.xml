@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test26_04</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="pending_orders_fragment">Hello pending orders fragment</string>
+    <string name="confirmed_orders_fragment">Hello confirmed orders fragment</string>
+    <string name="cancelled_orders_fragment">Hello cancelled orders fragment</string>
+</resources>
